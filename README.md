@@ -3,6 +3,8 @@ Guia de Compilação: PCSX-Reloaded em Sistemas Modernos (GCC 10+)  Este documen
 
 Link do PCSXR Original: https://ps1emulator.com/download
 
+PS: Se não quiser realizar a correção manual, pode apenas baixar extrair e rodar "make" e "make install" no "pcsxr-1.9.93_corrigido_ArchLinux" que já é o pacote corrigido.
+
 1. Dependências Necessárias
 
 Antes de compilar, garanta que as bibliotecas de desenvolvimento estejam instaladas:
